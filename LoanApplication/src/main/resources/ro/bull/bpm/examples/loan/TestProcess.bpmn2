@@ -4,12 +4,12 @@
     <bpmn2:startEvent id="processStartEvent" drools:bgcolor="#9acd32" drools:selectable="true" name="">
       <bpmn2:outgoing>_7C50F652-C57F-4485-AEE5-DACAC2C6664D</bpmn2:outgoing>
     </bpmn2:startEvent>
-    <bpmn2:task id="_ED57B7F9-7836-48F9-9CBB-47A513492D9B" drools:selectable="true" name="&#227;&#227;&#185;&#227;">
+    <bpmn2:task id="_ED57B7F9-7836-48F9-9CBB-47A513492D9B" drools:selectable="true" name="&#227;&#227;&#185;&#227;">
       <bpmn2:incoming>_7C50F652-C57F-4485-AEE5-DACAC2C6664D</bpmn2:incoming>
       <bpmn2:outgoing>_00777502-E474-41EC-9BA5-8B16ED1087A8</bpmn2:outgoing>
     </bpmn2:task>
     <bpmn2:sequenceFlow id="_7C50F652-C57F-4485-AEE5-DACAC2C6664D" drools:bgcolor="#000000" drools:selectable="true" sourceRef="processStartEvent" targetRef="_ED57B7F9-7836-48F9-9CBB-47A513492D9B"/>
-    <bpmn2:task id="_1FEADC86-6BE6-45E1-BD5A-AE69D4E59215" drools:selectable="true" name="&#230;&#165;&#230;&#172;&#232;&#170;">
+    <bpmn2:task id="_1FEADC86-6BE6-45E1-BD5A-AE69D4E59215" drools:selectable="true" name="&#230;&#165;&#230;&#172;&#232;&#170;">
       <bpmn2:incoming>_00777502-E474-41EC-9BA5-8B16ED1087A8</bpmn2:incoming>
       <bpmn2:outgoing>_685DA825-367C-4E6D-8A36-DBC927CB67E7</bpmn2:outgoing>
     </bpmn2:task>
